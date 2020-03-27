@@ -2,9 +2,10 @@
 #include <vector>
 #include <string>
 
-using namespace std;
+// using namespace std;
 
 int main()
 {
-    cout << "Hello World! Its a great place!";
+    std::cout << "Hello World! Its a great place!" << std::endl;
+    return 0;
 }
