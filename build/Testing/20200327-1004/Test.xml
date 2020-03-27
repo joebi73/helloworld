@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20200327-1004-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.16.5"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="ACE185"
+	OSRelease=" Professional"
+	OSVersion=" (Build 18363)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="15708"
+	TotalPhysicalMemory="8028"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2808"
+	>
+	<Testing>
+		<StartDateTime>Mar 27 11:14 W. Europe Standard Time</StartDateTime>
+		<StartTestTime>1585304078</StartTestTime>
+		<TestList>
+			<Test>./test/helloworldTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>helloworldTests</Name>
+			<Path>./test</Path>
+			<FullName>./test/helloworldTests</FullName>
+			<FullCommandLine>C:\Users\joel.birath\WORK\projects\helloworld\build\test\helloworldTests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0666683</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\joel.birath\WORK\projects\helloworld\build\test\helloworldTests.exe</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyVkk1vwjAMhu/9FT62h0Zrj0g7TPs6IA1UhnZoqimErASlNkrS8ffXEtQxJlDxJY7y2K/fJEWLqLGGRmiME/iy1MDjhC+dso5vSRm20lb4Df+YFVO+s7RV0ju+UcbQnqxZ85qoNsor509TZyWv++yz78ykjMr7ISoojrI59IwLumEDrtXdyqIyHaKCV0MrYQKg8FtbwkZhByuftrszOAvcoenvpO+9UhaVUCzf4BDVv1P20qL0mtANdIjZdAQN8R00Lhk/TCgAT16YJBpdl181kQ9jjfBwDt9qIb9m4dKjeSVsuqY9/v0Ulz8DWIEM4uxEqTM1f1gsnp/6GzhWsugHBuXqEw==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Mar 27 11:14 W. Europe Standard Time</EndDateTime>
+		<EndTestTime>1585304078</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
