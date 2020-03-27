@@ -24,8 +24,8 @@
 	ProcessorClockFrequency="2808"
 	>
 	<Testing>
-		<StartDateTime>Mar 27 11:14 W. Europe Standard Time</StartDateTime>
-		<StartTestTime>1585304078</StartTestTime>
+		<StartDateTime>Mar 27 12:20 W. Europe Standard Time</StartDateTime>
+		<StartTestTime>1585308005</StartTestTime>
 		<TestList>
 			<Test>./test/helloworldTests</Test>
 		</TestList>
@@ -36,7 +36,7 @@
 			<FullCommandLine>C:\Users\joel.birath\WORK\projects\helloworld\build\test\helloworldTests.exe</FullCommandLine>
 			<Results>
 				<NamedMeasurement type="numeric/double" name="Execution Time">
-					<Value>0.0666683</Value>
+					<Value>0.0624302</Value>
 				</NamedMeasurement>
 				<NamedMeasurement type="numeric/double" name="Processors">
 					<Value>1</Value>
@@ -48,12 +48,12 @@
 					<Value>C:\Users\joel.birath\WORK\projects\helloworld\build\test\helloworldTests.exe</Value>
 				</NamedMeasurement>
 				<Measurement>
-					<Value encoding="base64" compression="gzip">eJyVkk1vwjAMhu/9FT62h0Zrj0g7TPs6IA1UhnZoqimErASlNkrS8ffXEtQxJlDxJY7y2K/fJEWLqLGGRmiME/iy1MDjhC+dso5vSRm20lb4Df+YFVO+s7RV0ju+UcbQnqxZ85qoNsor509TZyWv++yz78ykjMr7ISoojrI59IwLumEDrtXdyqIyHaKCV0MrYQKg8FtbwkZhByuftrszOAvcoenvpO+9UhaVUCzf4BDVv1P20qL0mtANdIjZdAQN8R00Lhk/TCgAT16YJBpdl181kQ9jjfBwDt9qIb9m4dKjeSVsuqY9/v0Ulz8DWIEM4uxEqTM1f1gsnp/6GzhWsugHBuXqEw==</Value>
+					<Value encoding="base64" compression="gzip">eJyVkk1vwjAMhu/5FT7SQ6PRI9IO074OSAOVoR2aagolK0GpjZJ0/P01BHWDCVR8iaM89us3Sd4iaqyhkRpHCXxZauBxIpZOWSe2pAxfaSv9RnzM8qnYWdqqyjuxUcbQnqxZi5qoNsor5/+mzlaiDtln6MyrihX3fZSQH2UzCIyLunEDrtXdylmR9lHCq6GVNBFQ+K0tYaOwg5VP290ZPI7coenvpO9BacwKyJdvcIjy3yl/abHymtD1dIzZdAANoztoXDJ8mFgAnrw0CRtcl101kfVjDfBwDt9qIbtm4dKjeSVtuqY9nn6Ky58BrER+qtSZmj8sFs9P4QaOlZz9AAbD6hI=</Value>
 				</Measurement>
 			</Results>
 		</Test>
-		<EndDateTime>Mar 27 11:14 W. Europe Standard Time</EndDateTime>
-		<EndTestTime>1585304078</EndTestTime>
+		<EndDateTime>Mar 27 12:20 W. Europe Standard Time</EndDateTime>
+		<EndTestTime>1585308005</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

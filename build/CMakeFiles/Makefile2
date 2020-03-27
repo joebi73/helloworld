@@ -290,8 +290,8 @@ googletest/googletest/CMakeFiles/gtest_main.dir/clean:
 
 # All Build rule for target.
 test/CMakeFiles/helloworldTests.dir/all: CMakeFiles/helloworld.dir/all
-test/CMakeFiles/helloworldTests.dir/all: googletest/googletest/CMakeFiles/gtest.dir/all
 test/CMakeFiles/helloworldTests.dir/all: googletest/googletest/CMakeFiles/gtest_main.dir/all
+test/CMakeFiles/helloworldTests.dir/all: googletest/googletest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f test\CMakeFiles\helloworldTests.dir\build.make test/CMakeFiles/helloworldTests.dir/depend
 	$(MAKE) -f test\CMakeFiles\helloworldTests.dir\build.make test/CMakeFiles/helloworldTests.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\joel.birath\WORK\projects\helloworld\build\CMakeFiles --progress-num=11,12 "Built target helloworldTests"
