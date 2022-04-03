@@ -6,11 +6,33 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/joelb/myRepository/helloworld/Child.hpp
+iDemo.hpp
+C:/Users/joelb/myRepository/helloworld/iDemo.hpp
+Parent.hpp
+C:/Users/joelb/myRepository/helloworld/Parent.hpp
+iostream
+-
+
+C:/Users/joelb/myRepository/helloworld/HowToUseEnvVariable.hpp
+cstring
+-
+iostream
+-
+
+C:/Users/joelb/myRepository/helloworld/Parent.hpp
+
 C:/Users/joelb/myRepository/helloworld/helloworld.cpp
+HowToUseEnvVariable.hpp
+C:/Users/joelb/myRepository/helloworld/HowToUseEnvVariable.hpp
+Child.hpp
+C:/Users/joelb/myRepository/helloworld/Child.hpp
 iostream
 -
 vector
 -
 string
 -
+
+C:/Users/joelb/myRepository/helloworld/iDemo.hpp
 

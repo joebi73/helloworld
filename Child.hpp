@@ -3,7 +3,7 @@
 #include "Parent.hpp"
 #include <iostream>
 
-class Child : public Parent, public iDemo
+class Child : public iDemo
 {
     public:
     virtual void OverrideMe()
