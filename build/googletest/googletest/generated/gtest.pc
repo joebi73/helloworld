@@ -1,5 +1,5 @@
-libdir=C:/Program Files (x86)/helloworld2/lib
-includedir=C:/Program Files (x86)/helloworld2/include
+libdir=C:/Program Files (x86)/helloworld/lib
+includedir=C:/Program Files (x86)/helloworld/include
 
 Name: gtest
 Description: GoogleTest (without main() function)

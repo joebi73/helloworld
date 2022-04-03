@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/joel.birath/WORK/projects/helloworld/test
+# Install script for directory: C:/Users/joelb/myRepository/helloworld/test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/helloworld2")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/helloworld")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

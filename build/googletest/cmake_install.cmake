@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/joel.birath/WORK/projects/helloworld/googletest
+# Install script for directory: C:/Users/joelb/myRepository/helloworld/googletest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/helloworld2")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/helloworld")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/joel.birath/WORK/projects/helloworld/build/googletest/googlemock/cmake_install.cmake")
+  include("C:/Users/joelb/myRepository/helloworld/build/googletest/googlemock/cmake_install.cmake")
 
 endif()
 

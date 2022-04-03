@@ -1,32 +1,7 @@
 [
 {
-  "directory": "C:/Users/joel.birath/WORK/projects/helloworld/build",
-  "command": "C:\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\g++.exe    -g   -std=gnu++11 -o CMakeFiles\\helloworld.dir\\helloworld.cpp.obj -c C:\\Users\\joel.birath\\WORK\\projects\\helloworld\\helloworld.cpp",
-  "file": "C:/Users/joel.birath/WORK/projects/helloworld/helloworld.cpp"
-},
-{
-  "directory": "C:/Users/joel.birath/WORK/projects/helloworld/build/googletest/googlemock",
-  "command": "C:\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\g++.exe   @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\joel.birath\\WORK\\projects\\helloworld\\googletest\\googlemock\\src\\gmock_main.cc",
-  "file": "C:/Users/joel.birath/WORK/projects/helloworld/googletest/googlemock/src/gmock_main.cc"
-},
-{
-  "directory": "C:/Users/joel.birath/WORK/projects/helloworld/build/googletest/googlemock",
-  "command": "C:\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\g++.exe   @CMakeFiles/gmock.dir/includes_CXX.rsp -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\joel.birath\\WORK\\projects\\helloworld\\googletest\\googlemock\\src\\gmock-all.cc",
-  "file": "C:/Users/joel.birath/WORK/projects/helloworld/googletest/googlemock/src/gmock-all.cc"
-},
-{
-  "directory": "C:/Users/joel.birath/WORK/projects/helloworld/build/googletest/googletest",
-  "command": "C:\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\g++.exe   @CMakeFiles/gtest.dir/includes_CXX.rsp -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\joel.birath\\WORK\\projects\\helloworld\\googletest\\googletest\\src\\gtest-all.cc",
-  "file": "C:/Users/joel.birath/WORK/projects/helloworld/googletest/googletest/src/gtest-all.cc"
-},
-{
-  "directory": "C:/Users/joel.birath/WORK/projects/helloworld/build/googletest/googletest",
-  "command": "C:\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\g++.exe   @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\joel.birath\\WORK\\projects\\helloworld\\googletest\\googletest\\src\\gtest_main.cc",
-  "file": "C:/Users/joel.birath/WORK/projects/helloworld/googletest/googletest/src/gtest_main.cc"
-},
-{
-  "directory": "C:/Users/joel.birath/WORK/projects/helloworld/build/test",
-  "command": "C:\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\g++.exe   @CMakeFiles/helloworldTests.dir/includes_CXX.rsp -g   -std=gnu++11 -o CMakeFiles\\helloworldTests.dir\\helloworldTests.cpp.obj -c C:\\Users\\joel.birath\\WORK\\projects\\helloworld\\test\\helloworldTests.cpp",
-  "file": "C:/Users/joel.birath/WORK/projects/helloworld/test/helloworldTests.cpp"
+  "directory": "C:/Users/joelb/myRepository/helloworld/build",
+  "command": "C:\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\g++.exe    -g   -std=gnu++11 -o CMakeFiles\\helloworld.dir\\helloworld.cpp.obj -c C:\\Users\\joelb\\myRepository\\helloworld\\helloworld.cpp",
+  "file": "C:/Users/joelb/myRepository/helloworld/helloworld.cpp"
 }
 ]

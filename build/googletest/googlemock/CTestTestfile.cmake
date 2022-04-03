@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: C:/Users/joel.birath/WORK/projects/helloworld/googletest/googlemock
-# Build directory: C:/Users/joel.birath/WORK/projects/helloworld/build/googletest/googlemock
+# Source directory: C:/Users/joelb/myRepository/helloworld/googletest/googlemock
+# Build directory: C:/Users/joelb/myRepository/helloworld/build/googletest/googlemock
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
