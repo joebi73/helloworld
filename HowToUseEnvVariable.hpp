@@ -1,6 +1,8 @@
 //Short example code, how to use Environment variables
+#include <cstring>
 #include <iostream>
-
+namespace Hello
+{
 void UseEnv()
 {
     //Read Environment variable
@@ -10,10 +12,12 @@ void UseEnv()
     if (EnvironVar == nullptr || (std::strcmp("false", EnvironVar) == 0))
     {
         useVariable = false;
+        std::cout << "Environment variable is set to: " << useVariable << std::endl;
     }
     else if (std::strcmp("true", EnvironVar) == 0)
     {
         useVariable = true;
+        std::cout << "Environment variable is set to: " << useVariable << std::endl;
     }
     else
     {
@@ -24,6 +28,9 @@ void UseEnv()
 if (useVariable)
 {
     //do stuff!
+    //With help of this switch you can via an EnvVar decide if you want to run a certain code/alg or something like that
 }
 
 }
+
+} //namespace Hello
